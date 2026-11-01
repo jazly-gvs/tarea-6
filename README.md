@@ -9,6 +9,7 @@ Para ver el funcionamiento del programa:
 3. Seleccione la pestaña **Consola (Console)** para visualizar las tablas estructuradas, el informe corporativo JSON y las pruebas de errores controladas.
 
 ## Estructura.
+```text
 tarea-6/
 ├── index.html
 ├── script.js
@@ -16,3 +17,4 @@ tarea-6/
     ├── captura-01-tabla.png
     ├── captura-02-totales.png
     └── captura-03-error-controlado.png
+```
